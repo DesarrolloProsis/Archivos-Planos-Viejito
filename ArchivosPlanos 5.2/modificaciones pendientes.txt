@@ -1,0 +1,6 @@
+VERIFICAR que la validacion de los rollos este correcta If (result(56) & result(60) & result(53) & result(52)) > "" Then
+Agregar carpeta antes del año de nombre de la casetsa
+verificar validacion de bolsa esta comentada
+cuando los numeros de tag no sean alfanumericos no escribirlos en el archivo .XLL
+X = NUMERO DE TURNO
+'VERIFICAR DONDE hago validaciones en archivo txt linea 43X

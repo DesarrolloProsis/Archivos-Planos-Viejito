@@ -1,0 +1,874 @@
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmLineas.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmR1.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\MDIInicio.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Ionic.Zip.dll
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmLineas.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmR1.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\MDIInicio.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmLineas.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmR1.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\MDIInicio.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmLineas.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\frmR1.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\MDIInicio.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\Tlalpan\borrar\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\bin\Debug\Ionic.Zip.dll
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\obj\Debug\frmLineas.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\obj\Debug\frmR1.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\obj\Debug\MDIInicio.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.cache
+D:\PROSIS\MEXICO-ACAPULCO\Modulo Liquidaciones\Desarrollo Exportacion\2013 ver\DockPanelSkin\DockPanelSkin\obj\Debug\RdlCompile.compiled
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\obj\Debug\frmLineas.resources
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Rodrigo Mendoza\Downloads\DockPanelSkin\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\obj\Debug\frmLineas.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\bin\Debug\DecryptCapufe.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\bin\Debug\EncriptaCapufeFileName.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\bin\Debug\HashClass.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\obj\Debug\RdlCompile.cache
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\obj\Debug\RdlCompile.compiled
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\bin\Debug\DecryptCapufe.dll
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\bin\Debug\EncriptaCapufeFileName.dll
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\bin\Debug\HashClass.dll
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\obj\Debug\frmLineas.resources
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\obj\Debug\RdlCompile.cache
+C:\Users\Rodrigo Mendoza\Desktop\Modulos de exportacion anteriores\Modulo Exportacion-mal\DockPanelSkin\obj\Debug\RdlCompile.compiled
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion\DockPanelSkin\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\bin\Debug\DecryptCapufe.dll
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\bin\Debug\EncriptaCapufeFileName.dll
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\bin\Debug\HashClass.dll
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\obj\Debug\frmLineas.resources
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\obj\Debug\RdlCompile.cache
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion\DockPanelSkin\obj\Debug\RdlCompile.compiled
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\frmLineas.resources
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\RdlCompile.cache
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\RdlCompile.compiled
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\CAPUFE\Documents\RODRIGO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+D:\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+D:\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+D:\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+D:\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+D:\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\frmLineas.resources
+D:\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\frmR1.resources
+D:\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\MDIInicio.resources
+D:\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Resources.resources
+D:\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+D:\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\RdlCompile.cache
+D:\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\RdlCompile.compiled
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\frmLineas.resources
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\RdlCompile.cache
+C:\Users\Rodrigo Mendoza\OneDrive\Trabajo\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\RdlCompile.compiled
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\frmLineas.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\RdlCompile.cache
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\Modulo Exportacion-4.0\DockPanelSkin\obj\Debug\RdlCompile.compiled
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\obj\Debug\frmLineas.resources
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\obj\Debug\RdlCompile.cache
+C:\Users\CAPUFE\Documents\RODRIGO\02 Archivos_Planos\DockPanelSkin\obj\Debug\RdlCompile.compiled
+E:\02 Archivos_Planos\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+E:\02 Archivos_Planos\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+E:\02 Archivos_Planos\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+E:\02 Archivos_Planos\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo\Desktop\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Rodrigo\Desktop\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo\Desktop\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo\Desktop\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\frmLineas.resources
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\frmR1.resources
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\MDIInicio.resources
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Resources.resources
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\RdlCompile.cache
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\RdlCompile.compiled
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\EntityFramework.dll
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\HashClass.dll
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\EntityFramework.xml
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+E:\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\EntityFramework.dll
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\HashClass.dll
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\EntityFramework.xml
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\frmLineas.resources
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\RdlCompile.cache
+C:\Users\Rodrigo Mendoza\Documents\ArchivosPlanos 4.0.1\DockPanelSkin\obj\Debug\RdlCompile.compiled
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\EntityFramework.dll
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\HashClass.dll
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\EntityFramework.xml
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\frmR1.resources
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\MDIInicio.resources
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\Resources.resources
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\EntityFramework.dll
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\HashClass.dll
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\EntityFramework.xml
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\frmLineas.resources
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\frmR1.resources
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\MDIInicio.resources
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\Resources.resources
+D:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+E:\ArchivosPlanos 4.0.2\DockPanelSkin\obj\Debug\FRM1.resources
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\bin\Debug\EntityFramework.dll
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\bin\Debug\HashClass.dll
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\bin\Debug\EntityFramework.xml
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\obj\Debug\FRM1.resources
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\obj\Debug\frmR1.resources
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\obj\Debug\MDIInicio.resources
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\obj\Debug\Resources.resources
+E:\ArchivosPlanos 4.0.3\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.dll
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\HashClass.dll
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.xml
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\FRM1.resources
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\frmR1.resources
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\MDIInicio.resources
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Resources.resources
+E:\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.dll
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\HashClass.dll
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.xml
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\FRM1.resources
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.dll
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\HashClass.dll
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.xml
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\FRM1.resources
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Pruebas\Desktop\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\HashClass.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\FRM1.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Rodrigo Mendoza\Documents\TRABAJO\ArchivosPlanos 4.0.4\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\EntityFramework.dll
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\HashClass.dll
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\EntityFramework.xml
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\FRM1.resources
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Desktop\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\EntityFramework.dll
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\HashClass.dll
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\EntityFramework.xml
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\FRM1.resources
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.5\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.dll
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\HashClass.dll
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.xml
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\FRM1.resources
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.dll
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\HashClass.dll
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.xml
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\FRM1.resources
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\frmR1.resources
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\MDIInicio.resources
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Resources.resources
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Rodrigo Mendoza\Desktop\testdisk-7.0.win\testdisk-7.0\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Rodrigo Mendoza\Desktop\testdisk-7.0.win\testdisk-7.0\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Rodrigo Mendoza\Desktop\testdisk-7.0.win\testdisk-7.0\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Rodrigo Mendoza\Desktop\testdisk-7.0.win\testdisk-7.0\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.dll
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\HashClass.dll
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.xml
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\FRM1.resources
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\frmR1.resources
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\MDIInicio.resources
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Resources.resources
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+D:\Desktop\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.dll
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\HashClass.dll
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.xml
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\FRM1.resources
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\frmR1.resources
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\MDIInicio.resources
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Resources.resources
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+D:\Documents\Visual Studio 2017\Projects\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+E:\ArchivosPlanos 4.0.6\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CoreCompileInputs.cache
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\EntityFramework.dll
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\HashClass.dll
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\EntityFramework.xml
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\FRM1.resources
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\frmR1.resources
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\MDIInicio.resources
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\Resources.resources
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CoreCompileInputs.cache
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+D:\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\FRM1.resources
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CoreCompileInputs.cache
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\EntityFramework.dll
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\HashClass.dll
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\EntityFramework.xml
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENA\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.dll
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\HashClass.dll
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.xml
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\FRM1.resources
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CoreCompileInputs.cache
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\Desarrollo1\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CopyComplete
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.dll
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\HashClass.dll
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.xml
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\FRM1.resources
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\frmR1.resources
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\MDIInicio.resources
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Resources.resources
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.cache
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CoreCompileInputs.cache
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CopyComplete
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+D:\Desktop\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.dll
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\HashClass.dll
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.xml
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\FRM1.resources
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\frmR1.resources
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\MDIInicio.resources
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Resources.resources
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.cache
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CoreCompileInputs.cache
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CopyComplete
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+G:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.dll
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\HashClass.dll
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.xml
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\FRM1.resources
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\frmR1.resources
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\MDIInicio.resources
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Resources.resources
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.cache
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CoreCompileInputs.cache
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CopyComplete
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+F:\ArchivosPlanos 4.0.6 BUENAG\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+F:\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+F:\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+F:\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+F:\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+F:\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+F:\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+F:\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+F:\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EntityFramework.dll
+F:\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+F:\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\HashClass.dll
+F:\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EntityFramework.xml
+F:\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+F:\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+F:\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\FRM1.resources
+F:\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\frmR1.resources
+F:\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\MDIInicio.resources
+F:\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Resources.resources
+F:\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.cache
+F:\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CoreCompileInputs.cache
+F:\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CopyComplete
+F:\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+F:\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+F:\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EntityFramework.dll
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\HashClass.dll
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\System.Web.Services.dll
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EntityFramework.xml
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojResolveAssemblyReference.cache
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\FRM1.resources
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\frmR1.resources
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\MDIInicio.resources
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Resources.resources
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.Cache
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CoreCompileInputs.cache
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+C:\Users\PCS186-OPE01\Documents\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\HashClass.dll
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\oracle.dataaccess.dll
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojAssemblyReference.cache
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\FRM1.resources
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\frmR1.resources
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\MDIInicio.resources
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Resources.resources
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.cache
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CopyComplete
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+\\Mac\Home\Desktop\ArchivosPlanos 5.1\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb
+F:\ArchivosPlanos 5.2\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.config
+F:\ArchivosPlanos 5.2\DockPanelSkin\bin\Debug\Mod_Exportacion.exe
+F:\ArchivosPlanos 5.2\DockPanelSkin\bin\Debug\Mod_Exportacion.pdb
+F:\ArchivosPlanos 5.2\DockPanelSkin\bin\Debug\Mod_Exportacion.xml
+F:\ArchivosPlanos 5.2\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.CodeAnalysisLog.xml
+F:\ArchivosPlanos 5.2\DockPanelSkin\bin\Debug\Mod_Exportacion.exe.lastcodeanalysissucceeded
+F:\ArchivosPlanos 5.2\DockPanelSkin\bin\Debug\EncriptCapufe.dll
+F:\ArchivosPlanos 5.2\DockPanelSkin\bin\Debug\EntityFramework.dll
+F:\ArchivosPlanos 5.2\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.dll
+F:\ArchivosPlanos 5.2\DockPanelSkin\bin\Debug\HashClass.dll
+F:\ArchivosPlanos 5.2\DockPanelSkin\bin\Debug\oracle.dataaccess.dll
+F:\ArchivosPlanos 5.2\DockPanelSkin\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\ArchivosPlanos 5.2\DockPanelSkin\bin\Debug\EntityFramework.xml
+F:\ArchivosPlanos 5.2\DockPanelSkin\bin\Debug\EntityFramework.SqlServer.xml
+F:\ArchivosPlanos 5.2\DockPanelSkin\obj\Debug\Modulo Exportacion.vbprojAssemblyReference.cache
+F:\ArchivosPlanos 5.2\DockPanelSkin\obj\Debug\FRM1.resources
+F:\ArchivosPlanos 5.2\DockPanelSkin\obj\Debug\frmR1.resources
+F:\ArchivosPlanos 5.2\DockPanelSkin\obj\Debug\MDIInicio.resources
+F:\ArchivosPlanos 5.2\DockPanelSkin\obj\Debug\Resources.resources
+F:\ArchivosPlanos 5.2\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.GenerateResource.cache
+F:\ArchivosPlanos 5.2\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CoreCompileInputs.cache
+F:\ArchivosPlanos 5.2\DockPanelSkin\obj\Debug\Modulo Exportacion.vbproj.CopyComplete
+F:\ArchivosPlanos 5.2\DockPanelSkin\obj\Debug\Mod_Exportacion.exe
+F:\ArchivosPlanos 5.2\DockPanelSkin\obj\Debug\Mod_Exportacion.xml
+F:\ArchivosPlanos 5.2\DockPanelSkin\obj\Debug\Mod_Exportacion.pdb

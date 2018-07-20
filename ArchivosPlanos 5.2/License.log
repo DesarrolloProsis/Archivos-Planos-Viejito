@@ -1,0 +1,78 @@
+    ======  ======
+    Time:20/07/2018 06:38:49 p. m.
+    Title: Initiate log
+    Message: 
+    Time:20/07/2018 06:38:49 p. m.
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:20/07/2018 06:38:49 p. m.
+    Title: Requesting EVT
+    Message: EVTP
+    Time:20/07/2018 06:38:49 p. m.
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:20/07/2018 06:38:49 p. m.
+    Title: LICENSER
+    Message: READ REGS START
+    Time:20/07/2018 06:38:49 p. m.
+    Title: LICENSER
+    Message: TRL MODE
+    Time:20/07/2018 06:38:49 p. m.
+    Title: LICENSER
+    Message: DS LEFT6
+    Time:20/07/2018 06:38:49 p. m.
+    Title: LICENSER
+    Message: DT MARK PASSED6.00:00:00
+    Time:20/07/2018 06:38:50 p. m.
+    Title: Acceso denegado a la ruta de acceso 'C:\ProgramData\Telerik\Hash.lic'.
+    Message:    en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en Telerik.Licensing.Licenser.ReadHashPass()
+    Time:20/07/2018 06:38:51 p. m.
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:20/07/2018 06:38:51 p. m.
+    Title: Requesting Validation
+    Message: ILMValidate True Trial
+    Time:20/07/2018 06:38:51 p. m.
+    Title: Acceso denegado al Registro solicitado.
+    Message:    en System.ThrowHelper.ThrowSecurityException(ExceptionResource resource)
+   en Microsoft.Win32.RegistryKey.OpenSubKey(String name, Boolean writable)
+   en Telerik.Licensing.Licenser.CheckRegistryTimeStamp()
+   en Telerik.Licensing.Licenser.TryCheckLicenseExists()
+    Entering constructor for: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    Entering Initialize() of: Telerik.CommonPackage.Telerik_CommonPackagePackage
+    No Telerik Reporting products found in registry
+    Entering constructor for: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering Initialize() of: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering constructor for: Telerik.WinControls.Converter.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.WinControls.Converter.VSPackage.VSPackage
+    Assembly resolution failed: Telerik.JustMock.VS2017.Implementation
+    Entering constructor for: Telerik.Windows.WPF.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.Windows.WPF.VSPackage.VSPackage
+    Entering constructor for: Telerik.KendoUI.ASP.NET.Core.VSPackage.VsPackage
+    Entering constructor for: Telerik.KendoUI.ASP.NET.Core.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.KendoUI.ASP.NET.Core.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.KendoUI.ASP.NET.Core.VSPackage.VsPackage
+    Entering constructor for: Telerik.Web.UI.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.Web.UI.VSPackage.VSPackage
+    Entering constructor for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering constructor for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.KendoUI.Mvc.VSPackage.VsPackage
+    Entering constructor for: Telerik.WinControls.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.WinControls.VSPackage.VSPackage
+    Entering constructor for: Telerik.Xamarin.UI.VSPackage.VsPackage
+    Entering constructor for: Telerik.Xamarin.UI.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.Xamarin.UI.VSPackage.VsPackage
+    Entering Initialize() for: Telerik.Xamarin.UI.VSPackage.VsPackage
+    Assembly resolution failed: Telerik.JustMock.AddIn.XmlSerializers, Version=2018.2.511.5, Culture=neutral, PublicKeyToken=602a9bfd8c8c4ad7
+    TRR Initialize DataExplorerToolWindow
+    TRR Initialize ReportExplorerToolWindow
+    TRR Initialize GroupExplorerToolWindow
+    Assembly resolution failed: Telerik.UserSettings.2018.2.710.1.XmlSerializers, Version=2018.2.710.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.VSX.Notifications.1.2.0.0.XmlSerializers, Version=1.2.0.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.VSX.Notifications.1.2.0.0.XmlSerializers, Version=1.2.0.0, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.VSX.2018.2.710.1.XmlSerializers, Version=2018.2.710.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4
+    Assembly resolution failed: Telerik.Xamarin.UI.VSX.2018.2.710.1.XmlSerializers, Version=2018.2.710.1, Culture=neutral, PublicKeyToken=0dfdc51bd06071b4

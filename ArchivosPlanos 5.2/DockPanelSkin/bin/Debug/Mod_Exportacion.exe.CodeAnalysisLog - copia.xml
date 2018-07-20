@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 14.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="14.0">
+ <Targets>
+  <Target Name="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin\bin\Debug\Mod_Exportacion.exe">
+   <Modules>
+    <Module Name="mod_exportacion.exe">
+     <Namespaces>
+      <Namespace Name="">
+       <Types>
+        <Type Name="clsQuerys" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Finalize()" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RemoveEmptyFinalizers" Category="Microsoft.Performance" CheckId="CA1821" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerys.vb" Line="232">'clsQuerys' implementa un finalizador que sólo llama condicionalmente a métodos emitidos o al finalizador del tipo base. Quite el finalizador o asegúrese de que sólo se compila condicionalmente en el ensamblado. Si se produce esta infracción con un finalizador que se incluye por completo en un bloque de código emitido condicionalmente, suprima este mensaje.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#QueryDataSet(System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerys.vb" Line="29">La cadena de consulta pasada a 'OracleDataAdapter.New(String, OracleConnection)' en 'clsQuerys.QueryDataSet(String, String)' podría contener las siguientes variables: 'strClsQuery'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#QueryDataSetCuatro(System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerys.vb" Line="253">La cadena de consulta pasada a 'OracleDataAdapter.New(String, OracleConnection)' en 'clsQuerys.QueryDataSetCuatro(String, String)' podría contener las siguientes variables: 'strClsQuery'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#QueryDataSetDos(System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerys.vb" Line="90">La cadena de consulta pasada a 'OracleDataAdapter.New(String, OracleConnection)' en 'clsQuerys.QueryDataSetDos(String, String)' podría contener las siguientes variables: 'strClsQuery'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#QueryDataSetNueve(System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerys.vb" Line="500">La cadena de consulta pasada a 'OracleDataAdapter.New(String, OracleConnection)' en 'clsQuerys.QueryDataSetNueve(String, String)' podría contener las siguientes variables: 'strClsQuery'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#QueryDataSetOcho(System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerys.vb" Line="439">La cadena de consulta pasada a 'OracleDataAdapter.New(String, OracleConnection)' en 'clsQuerys.QueryDataSetOcho(String, String)' podría contener las siguientes variables: 'strClsQuery'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#QueryDataSetSeis(System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerys.vb" Line="316">La cadena de consulta pasada a 'OracleDataAdapter.New(String, OracleConnection)' en 'clsQuerys.QueryDataSetSeis(String, String)' podría contener las siguientes variables: 'strClsQuery'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#QueryDataSetSiete(System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerys.vb" Line="378">La cadena de consulta pasada a 'OracleDataAdapter.New(String, OracleConnection)' en 'clsQuerys.QueryDataSetSiete(String, String)' podría contener las siguientes variables: 'strClsQuery'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#QueryDataSetTarifa(System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerys.vb" Line="556">La cadena de consulta pasada a 'OracleDataAdapter.New(String, OracleConnection)' en 'clsQuerys.QueryDataSetTarifa(String, String)' podría contener las siguientes variables: 'strClsQuery'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#QueryDataSetTres(System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerys.vb" Line="146">La cadena de consulta pasada a 'OracleDataAdapter.New(String, OracleConnection)' en 'clsQuerys.QueryDataSetTres(String, String)' podría contener las siguientes variables: 'strClsQuery'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#SQLEjecutar(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerys.vb" Line="199">La cadena de consulta pasada a 'OracleCommand.New(String, OracleConnection)' en 'clsQuerys.SQLEjecutar(String)' podría contener las siguientes variables: 'strInsert'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="clsQuerysSqlServer" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Finalize()" Kind="Method" Static="False" Accessibility="Family" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RemoveEmptyFinalizers" Category="Microsoft.Performance" CheckId="CA1821" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerysSqlServer.vb" Line="223">'clsQuerysSqlServer' implementa un finalizador que sólo llama condicionalmente a métodos emitidos o al finalizador del tipo base. Quite el finalizador o asegúrese de que sólo se compila condicionalmente en el ensamblado. Si se produce esta infracción con un finalizador que se incluye por completo en un bloque de código emitido condicionalmente, suprima este mensaje.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#QueryDataSet_SqlServer(System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerysSqlServer.vb" Line="49">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'clsQuerysSqlServer.QueryDataSet_SqlServer(String, String)' podría contener las siguientes variables: 'strClsQuery'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#QueryDataSet_SqlServerDos(System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerysSqlServer.vb" Line="122">La cadena de consulta pasada a 'SqlDataAdapter.New(String, SqlConnection)' en 'clsQuerysSqlServer.QueryDataSet_SqlServerDos(String, String)' podría contener las siguientes variables: 'strClsQuery'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#SQLEjecutar_SqlServer(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="clsQuerysSqlServer.vb" Line="190">La cadena de consulta pasada a 'SqlCommand.New(String, SqlConnection)' en 'clsQuerysSqlServer.SQLEjecutar_SqlServer(String)' podría contener las siguientes variables: 'strInsert'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="FRM1" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Button2_Click(System.Object,System.EventArgs)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="FRM1.vb" Line="55">El objeto 'sw' admite Dispose más de una vez en el método 'FRM1.Button2_Click(Object, EventArgs)'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 55</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="frmR1" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Comprimir()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="frmR1.vb" Line="819">El objeto 'sw' admite Dispose más de una vez en el método 'frmR1.Comprimir()'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 819</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ValidaBolsas()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="frmR1.vb" Line="217">La cadena de consulta pasada a 'OracleCommand.CommandText.Set(String)' en 'frmR1.ValidaBolsas()' podría contener las siguientes variables: 'Conversions.ToString(Conversions.ToDate(Strings.Format(DateAndTime.DateAdd(DateInterval.Day, -1, modGlobal.dt_Fecha_Inicio), "MM/dd/yyyy")))', 'fechaSelect'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ValidaCarrilesCerrados()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="frmR1.vb" Line="149">El objeto 'conexion' admite Dispose más de una vez en el método 'frmR1.ValidaCarrilesCerrados()'. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 149</Issue>
+            </Message>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="frmR1.vb" Line="108">La cadena de consulta pasada a 'OracleCommand.CommandText.Set(String)' en 'frmR1.ValidaCarrilesCerrados()' podría contener las siguientes variables: 'Conversions.ToString(Conversions.ToDate(Strings.Format(DateAndTime.DateAdd(DateInterval.Day, -1, modGlobal.dt_Fecha_Inicio), "MM/dd/yyyy")))', 'fechaSelect'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="frmR1.vb" Line="128">La cadena de consulta pasada a 'OracleCommand.CommandText.Set(String)' en 'frmR1.ValidaCarrilesCerrados()' podría contener las siguientes variables: 'Conversions.ToString(Conversions.ToDate(Strings.Format(DateAndTime.DateAdd(DateInterval.Day, -1, modGlobal.dt_Fecha_Inicio), "MM/dd/yyyy")))', 'fechaSelect'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ValidaComentarios()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="C:\Users\Alejandro\Documents\PRUEBAS\ArchivosPlanos 4.0.6\DockPanelSkin" File="frmR1.vb" Line="270">La cadena de consulta pasada a 'OracleCommand.CommandText.Set(String)' en 'frmR1.ValidaComentarios()' podría contener las siguientes variables: 'Conversions.ToString(Conversions.ToDate(Strings.Format(DateAndTime.DateAdd(DateInterval.Day, -1, modGlobal.dt_Fecha_Inicio), "MM/dd/yyyy")))', 'fechaSelect'. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="modGlobal" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#GetPrivateProfileSection(System.String&amp;,System.String&amp;,System.Int32,System.String&amp;)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Puesto que es un método P/Invoke, se debe definir 'modGlobal.GetPrivateProfileSection(ByRef String, ByRef String, Integer, ByRef String)' en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetPrivateProfileSectionNames(System.String&amp;,System.Int32,System.String&amp;)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Puesto que es un método P/Invoke, se debe definir 'modGlobal.GetPrivateProfileSectionNames(ByRef String, Integer, ByRef String)' en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetPrivateProfileString(System.String&amp;,System.Int32,System.String&amp;,System.String&amp;,System.Int32,System.String&amp;)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Puesto que es un método P/Invoke, se debe definir 'modGlobal.GetPrivateProfileString(ByRef String, Integer, ByRef String, ByRef String, Integer, ByRef String)' en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetPrivateProfileString(System.String&amp;,System.String&amp;,System.String&amp;,System.String&amp;,System.Int32,System.String&amp;)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Puesto que es un método P/Invoke, se debe definir 'modGlobal.GetPrivateProfileString(ByRef String, ByRef String, ByRef String, ByRef String, Integer, ByRef String)' en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#WritePrivateProfileString(System.String&amp;,System.Int32,System.Int32,System.String&amp;)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Puesto que es un método P/Invoke, se debe definir 'modGlobal.WritePrivateProfileString(ByRef String, Integer, Integer, ByRef String)' en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#WritePrivateProfileString(System.String&amp;,System.String&amp;,System.Int32,System.String&amp;)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Puesto que es un método P/Invoke, se debe definir 'modGlobal.WritePrivateProfileString(ByRef String, ByRef String, Integer, ByRef String)' en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#WritePrivateProfileString(System.String&amp;,System.String&amp;,System.String&amp;,System.String&amp;)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060" Status="Active" Created="2016-11-18 16:01:30Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="CriticalWarning">Puesto que es un método P/Invoke, se debe definir 'modGlobal.WritePrivateProfileString(ByRef String, ByRef String, ByRef String, ByRef String)' en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="MovePInvokesToNativeMethodsClass" Category="Microsoft.Design" CheckId="CA1060">
+   <Name>Mueva P/Invokes a la clase NativeMethods</Name>
+   <Description>Este tipo contiene miembros con el atributo DllImport. Los miembros con el atributo DllImport deben estar contenidos en clases denominadas NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Description>
+   <Resolution Name="Default">Puesto que es un método P/Invoke, se debe definir {0} en una clase con el nombre NativeMethods, SafeNativeMethods o UnsafeNativeMethods.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182161.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalWarning</MessageLevel>
+   <File Name="designrules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="No usar Dispose varias veces en objetos" Category="Microsoft.Usage" CheckId="CA2202">
+   <Name>No usar Dispose varias veces en objetos</Name>
+   <Description>Un método Dispose correctamente implementado se puede llamar varias veces sin producir ninguna excepción. Sin embargo, esto no está garantizado y, para evitar generar una excepción System.ObjectDisposedException, no debe llamar al método Dispose más de una vez en un objeto.</Description>
+   <Resolution Name="Default">El objeto {0} admite Dispose más de una vez en el método {1}. Para evitar generar una excepción System.ObjectDisposedException, no debe llamar a Dispose más de una vez en un objeto.: Lines: 819</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182334.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="RemoveEmptyFinalizers" Category="Microsoft.Performance" CheckId="CA1821">
+   <Name>Quitar los finalizadores vacíos</Name>
+   <Description>Los finalizadores vacíos se deberían evitar cuando sea posible, con el fin de ahorrar el esfuerzo de rendimiento adicional que implica el seguimiento de la duración de los objetos.</Description>
+   <Resolution Name="Default">{0} implementa un finalizador que sólo llama condicionalmente a métodos emitidos o al finalizador del tipo base. Quite el finalizador o asegúrese de que sólo se compila condicionalmente en el ensamblado. Si se produce esta infracción con un finalizador que se incluye por completo en un bloque de código emitido condicionalmente, suprima este mensaje.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb264476.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="14.0.0.0" />
+  </Rule>
+  <Rule TypeName="Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad" Category="Microsoft.Security" CheckId="CA2100">
+   <Name>Revisar consultas SQL para comprobar si tienen vulnerabilidades de seguridad</Name>
+   <Description>Una cadena de comando SQL compilada a partir de datos proporcionados por el usuario es vulnerable a ataques pon inyección de código SQL. Microsoft SQL Server y otros servidores de bases de datos admiten procedimientos almacenados y consultas SQL parametrizadas, que reducen el riesgo de ataques por inyección.</Description>
+   <Resolution Name="WithNonLiterals">La cadena de consulta pasada a {0} en {1} podría contener las siguientes variables: {2}. Si alguna de estas variables puede proceder de datos proporcionados por el usuario, considere el uso de un procedimiento almacenado o una consulta SQL parametrizada en lugar de compilar la consulta con concatenaciones de cadenas.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182310.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="14.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Categoría</String>
+  <String Key="Certainty">Certeza</String>
+  <String Key="CollapseAll">Contraer todo</String>
+  <String Key="CheckId">Comprobar id.</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">errores</String>
+  <String Key="ExpandAll">Expandir todo</String>
+  <String Key="Help">Ayuda</String>
+  <String Key="Line">Línea</String>
+  <String Key="Messages">mensajes</String>
+  <String Key="LocationNotStoredInPdb">[Ubicación no almacenada en Pdb]</String>
+  <String Key="Project">Proyecto</String>
+  <String Key="Resolution">Resolución</String>
+  <String Key="Rule">Regla</String>
+  <String Key="RuleFile">Archivo de regla</String>
+  <String Key="RuleDescription">Descripción de la regla</String>
+  <String Key="Source">Origen</String>
+  <String Key="Status">Estado</String>
+  <String Key="Target">Círculos concéntricos</String>
+  <String Key="Warning">Advertencia</String>
+  <String Key="Warnings">advertencias</String>
+  <String Key="ReportTitle">Informe de análisis del código</String>
+ </Localized>
+</FxCopReport>

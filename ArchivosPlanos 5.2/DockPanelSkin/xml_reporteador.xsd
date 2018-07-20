@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="xml_reporteador" targetNamespace="http://tempuri.org/xml_reporteador.xsd" elementFormDefault="qualified" xmlns="http://tempuri.org/xml_reporteador.xsd" xmlns:mstns="http://tempuri.org/xml_reporteador.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="Comparativo_Preliminar_Aforo_Ingreso_Transito_Vehicular_a">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Grupo" type="xs:string" />
+        <xs:element name="Concepto" type="xs:string" />
+        <xs:element name="Descricion_clase" type="xs:string" />
+        <xs:element name="Numero_clase" type="xs:string" />
+        <xs:element name="Moneda" type="xs:double" />
+        <xs:element name="Numero" type="xs:double" />
+        <xs:element name="strNumero" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Comparativo_Preliminar_Aforo_Ingreso_Transito_Vehicular_a_totales">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Cantidad" type="xs:string" />
+        <xs:element name="Total" type="xs:string" />
+        <xs:element name="Tipo_Total" type="xs:string" />
+        <xs:element name="strNumero" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="Bitacora_de_Operacion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Fecha_Operacion" type="xs:date" />
+        <xs:element name="Hora_Apertura" type="xs:date" />
+        <xs:element name="No_Turno" type="xs:string" />
+        <xs:element name="Fecha_Final" type="xs:date" />
+        <xs:element name="Hora_Cierre" type="xs:date" />
+        <xs:element name="No_De_Carril" type="xs:string" />
+        <xs:element name="No_De_Empleado" type="xs:string" />
+        <xs:element name="Operacion" type="xs:string" />
+        <xs:element name="No_Control_Preliquidacion" type="xs:string" />
+        <xs:element name="Observaciones" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

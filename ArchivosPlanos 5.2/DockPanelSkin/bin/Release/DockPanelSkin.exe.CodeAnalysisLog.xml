@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files\microsoft visual studio 8\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.Xsl"?>
+<FxCopReport Version="8">
+ <Targets>
+  <Target Name="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin\bin\Release\DockPanelSkin.exe">
+   <Modules>
+    <Module Name="dockpanelskin.exe">
+     <Messages>
+      <Message TypeName="AssembliesShouldDeclareMinimumSecurity" Category="Microsoft.Usage" CheckId="CA2209" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="Breaking">
+       <Issue Certainty="95" Level="CriticalError">No valid permission requests were found for assembly 'DockPanelSkin'. You should always specify the minimum security permissions using SecurityAction.RequestMinimum.</Issue>
+      </Message>
+      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="NonBreaking">
+       <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">Sign 'DockPanelSkin' with a strong name key.</Issue>
+      </Message>
+      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="NonBreaking">
+       <Issue Name="NoAttr" Certainty="95" Level="Error">'DockPanelSkin' should be marked with CLSCompliantAttribute and its value should be true.</Issue>
+      </Message>
+     </Messages>
+     <Namespaces>
+      <Namespace Name="">
+       <Types>
+        <Type Name="frmDocument" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="DeclareTypesInNamespaces" Category="Microsoft.Design" CheckId="CA1050" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="Breaking">
+           <Issue Certainty="95" Level="Error">'frmDocument' should be declared inside a namespace.</Issue>
+          </Message>
+          <Message TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="Breaking">
+           <Issue Name="Type" Certainty="95" Level="Error">Correct the casing of type name 'frmDocument'.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="InitializeComponent():System.Void" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="DoNotPassLiteralsAsLocalizedParameters" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmDocument.Designer.vb" Line="57">frmDocument.InitializeComponent():Void passes a literal as parameter 1 of a call to Control.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'frmDocument'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmDocument.Designer.vb" Line="34">frmDocument.InitializeComponent():Void passes a literal as parameter 1 of a call to Control.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'ToolStrip1'</Issue>
+            </Message>
+            <Message Id="System.Windows.Forms.TextBoxBase.set_Text(System.String)" TypeName="DoNotPassLiteralsAsLocalizedParameters" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmDocument.Designer.vb" Line="44">frmDocument.InitializeComponent():Void passes a literal as parameter 1 of a call to TextBoxBase.set_Text(String):Void. Retrieve the following string argument from a resource table instead: ''</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="frmMain" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="DeclareTypesInNamespaces" Category="Microsoft.Design" CheckId="CA1050" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="Breaking">
+           <Issue Certainty="95" Level="Error">'frmMain' should be declared inside a namespace.</Issue>
+          </Message>
+          <Message TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="Breaking">
+           <Issue Name="Type" Certainty="95" Level="Error">Correct the casing of type name 'frmMain'.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name=".ctor()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotInitializeUnnecessarily" Category="Microsoft.Performance" CheckId="CA1805" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="NonBreaking">
+             <Issue Certainty="90" Level="Warning">frmMain.New() initializes field m_ChildFormNumber of type System.Int32 to 0. Remove this initialization as it will be done automatically by the runtime.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="InitializeComponent():System.Void" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="DoNotPassLiteralsAsLocalizedParameters" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="461">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to Control.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'DockPanel with VS2005 theme'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="88">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to Control.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'MenuStrip'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="428">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to Control.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'StatusStrip'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="355">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to Control.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'ToolStrip'</Issue>
+            </Message>
+            <Message Id="System.Windows.Forms.ToolStripItem.set_Text(System.String)" TypeName="DoNotPassLiteralsAsLocalizedParameters" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="346">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;About ...'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="305">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Arrange Icons'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="319">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Contents'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="221">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Copy'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="180">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Edit'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="96">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;File'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="312">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Help'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="327">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Index'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="105">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;New'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="293">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;New Window'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="114">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Open'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="280">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Options'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="230">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Paste'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="148">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Print'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="198">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Redo'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="128">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Save'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="335">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Search'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="267">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Status Bar'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="258">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Toolbar'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="274">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Tools'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="189">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Undo'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="249">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;View'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="287">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: '&amp;Windows'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="299">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'C&amp;lose All'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="212">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Cu&amp;t'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="173">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'E&amp;xit'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="419">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Help'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="364">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'New'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="373">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Open'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="396">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Print'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="156">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Print Pre&amp;view'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="405">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Print Preview'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="162">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Print Setup'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="434">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Ready'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="382">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Save'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="134">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Save &amp;As'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.Designer.vb" Line="242">frmMain.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Select &amp;All'</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="SaveAsToolStripMenuItem_Click(System.Object,System.EventArgs):System.Void" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="FileName" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.vb" Line="124">frmMain.SaveAsToolStripMenuItem_Click(Object, EventArgs):Void declares a local, 'FileName', of type System.String, which is never used or is only assigned to. Use this local or remove it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="ShowNewForm(System.Object,System.EventArgs):System.Void" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.TextBoxBase.set_Text(System.String)" TypeName="DoNotPassLiteralsAsLocalizedParameters" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmMain.vb" Line="94">frmMain.ShowNewForm(Object, EventArgs):Void passes a literal as parameter 1 of a call to TextBoxBase.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'This is a sample on how to customize the DockPanel Suite. Please refer to the component documentation and to the related web site for any question on it or on it's usage.'</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="frmProperty" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="DeclareTypesInNamespaces" Category="Microsoft.Design" CheckId="CA1050" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="Breaking">
+           <Issue Certainty="95" Level="Error">'frmProperty' should be declared inside a namespace.</Issue>
+          </Message>
+          <Message TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="Breaking">
+           <Issue Name="Type" Certainty="95" Level="Error">Correct the casing of type name 'frmProperty'.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="InitializeComponent():System.Void" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="DoNotPassLiteralsAsLocalizedParameters" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmProperty.Designer.vb" Line="136">frmProperty.InitializeComponent():Void passes a literal as parameter 1 of a call to Control.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Properties'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmProperty.Designer.vb" Line="77">frmProperty.InitializeComponent():Void passes a literal as parameter 1 of a call to Control.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'PropertyGridToolBar'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmProperty.Designer.vb" Line="84">frmProperty.InitializeComponent():Void passes a literal as parameter 1 of a call to Control.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Window Position'</Issue>
+            </Message>
+            <Message Id="System.Windows.Forms.ToolStripItem.set_Text(System.String)" TypeName="DoNotPassLiteralsAsLocalizedParameters" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmProperty.Designer.vb" Line="114">frmProperty.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Auto Hide'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmProperty.Designer.vb" Line="100">frmProperty.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Dockable'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmProperty.Designer.vb" Line="91">frmProperty.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Floating'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmProperty.Designer.vb" Line="121">frmProperty.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Hide'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmProperty.Designer.vb" Line="107">frmProperty.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Tabbed Document'</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="frmSolution" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="DeclareTypesInNamespaces" Category="Microsoft.Design" CheckId="CA1050" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="Breaking">
+           <Issue Certainty="95" Level="Error">'frmSolution' should be declared inside a namespace.</Issue>
+          </Message>
+          <Message TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="Breaking">
+           <Issue Name="Type" Certainty="95" Level="Error">Correct the casing of type name 'frmSolution'.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="InitializeComponent():System.Void" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message Id="System.Windows.Forms.Control.set_Text(System.String)" TypeName="DoNotPassLiteralsAsLocalizedParameters" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmSolution.Designer.vb" Line="90">frmSolution.InitializeComponent():Void passes a literal as parameter 1 of a call to Control.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Solution Explorer'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmSolution.Designer.vb" Line="38">frmSolution.InitializeComponent():Void passes a literal as parameter 1 of a call to Control.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Window Position'</Issue>
+            </Message>
+            <Message Id="System.Windows.Forms.ToolStripItem.set_Text(System.String)" TypeName="DoNotPassLiteralsAsLocalizedParameters" Category="Microsoft.Globalization" CheckId="CA1303" Status="Active" Created="2007-01-18 22:13:01Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmSolution.Designer.vb" Line="68">frmSolution.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Auto Hide'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmSolution.Designer.vb" Line="54">frmSolution.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Dockable'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmSolution.Designer.vb" Line="45">frmSolution.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Floating'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmSolution.Designer.vb" Line="75">frmSolution.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Hide'</Issue>
+             <Issue Certainty="95" Level="Error" Path="C:\Documents and Settings\Danilo\Desktop\DockPanelSkin\DockPanelSkin\DockPanelSkin" File="frmSolution.Designer.vb" Line="61">frmSolution.InitializeComponent():Void passes a literal as parameter 1 of a call to ToolStripItem.set_Text(String):Void. Retrieve the following string argument from a resource table instead: 'Tabbed Document'</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AssembliesShouldDeclareMinimumSecurity" Category="Microsoft.Usage" CheckId="CA2209">
+   <Name>Assemblies should declare minimum security</Name>
+   <Description>Permission requests prevent security exceptions from being thrown after code in an assembly has already begun executing. If permission requests are specified on an assembly, the assembly will not load at runtime if it has insufficient permissions. To resolve violations of this rule, add attributes that specify what permissions the assembly will demand or might demand, and what permissions it does not want granted.  To specify required permissions, use SecurityAction.Minimum. To specify permissions that the assembly might demand, use SecurityAction.RequestOptional. To specify permissions that the assembly must not be granted, use SecurityAction.RequestRefuse.</Description>
+   <Resolution Name="Default">No valid permission requests were found for assembly '{0}'. You should always specify the minimum security permissions using SecurityAction.RequestMinimum.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="UsageRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210">
+   <Name>Assemblies should have valid strong names</Name>
+   <Description>Either the assembly has no strong name, an invalid one, or the strong name is valid only because of the computer configuration. The assembly should not be deployed in this state. The most common causes of this are: 1) The assembly's contents were modified after it was signed. 2) The signing process failed. 3) The assembly was delay-signed. 4) A registry key existed that allowed the check to pass (where it would not have otherwise).</Description>
+   <Resolution Name="NoStrongName">Sign '{0}' with a strong name key.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="DesignRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="DeclareTypesInNamespaces" Category="Microsoft.Design" CheckId="CA1050">
+   <Name>Declare types in namespaces</Name>
+   <Description>A type should be defined inside a namespace to avoid duplication.</Description>
+   <Resolution Name="Default">'{0}' should be declared inside a namespace.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="DesignRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotInitializeUnnecessarily" Category="Microsoft.Performance" CheckId="CA1805">
+   <Name>Do not initialize unnecessarily</Name>
+   <Description>Do not make initializations that have already been done by the runtime.</Description>
+   <Resolution Name="Default">{0} initializes field {1} of type {2} to {3}. Remove this initialization as it will be done automatically by the runtime.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Warning</MessageLevel>
+   <File Name="PerformanceRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotPassLiteralsAsLocalizedParameters" Category="Microsoft.Globalization" CheckId="CA1303">
+   <Name>Do not pass literals as localized parameters</Name>
+   <Description>String literals that are embedded in source code are difficult to localize. Avoid passing string literals as arguments in circumstances where a localized string is generally expected. Most localized applications, for example, should localize string arguments that are passed to exception constructors. When creating an Exception instance, therefore, a string argument retrieved from a string table is more appropriate than a string literal.</Description>
+   <Resolution Name="Default">{0} passes a literal as parameter {1} of a call to {2}. Retrieve the following string argument from a resource table instead: '{3}'</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="GlobalizationRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709">
+   <Name>Identifiers should be cased correctly</Name>
+   <Description>Type, namespace, and member identifiers are pascal-cased. Parameter identifiers are camel-cased. The pascal-casing convention capitalizes the first letter of each word, as in BackColor. The camel-casing convention formats the first letter of the first word in lowercase and capitalizes the first letter of all subsequent words, as in backgroundColor.</Description>
+   <Resolution Name="Type">Correct the casing of type name '{0}'.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="NamingRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014">
+   <Name>Mark assemblies with CLSCompliant</Name>
+   <Description>Assemblies should explicitly state their Cls compliance using the CLSCompliant attribute. An assembly without this attribute is not CLS-compliant. Assemblies, modules, and types can be CLS-compliant even if some parts of the assembly, module, or type are not CLS-compliant. The following rules apply: 1) If the element is marked CLSCompliant, any noncompliant members must have the CLSCompliant attribute present with its argument set to false. 2) A comparable CLS-compliant alternative member must be supplied for each member that is not CLS-compliant.</Description>
+   <Resolution Name="NoAttr">'{0}' should be marked with CLSCompliantAttribute and its value should be true.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="DesignRules.dll" Version="8.0.0.0" />
+  </Rule>
+  <Rule TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804">
+   <Name>Remove unused locals</Name>
+   <Description>Remove locals that are not used or are only assigned to in method implementations.</Description>
+   <Resolution Name="Default">{0} declares a local, '{1}', of type {2}, which is never used or is only assigned to. Use this local or remove it.</Resolution>
+   <Owner />
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="PerformanceRules.dll" Version="8.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Category</String>
+  <String Key="CollapseAll">Collapse All</String>
+  <String Key="CheckId">Check Id</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">error(s)</String>
+  <String Key="Line">Line</String>
+  <String Key="LocationNotStoredInPdb">&lt;Location not stored in Pdb&gt;</String>
+  <String Key="Project">Project</String>
+  <String Key="Rule">Rule</String>
+  <String Key="RuleDescription">Rule Description</String>
+  <String Key="Source">Source</String>
+  <String Key="Target">Target</String>
+  <String Key="Warning">Warning</String>
+  <String Key="Warnings">warning(s)</String>
+  <String Key="ReportTitle">Microsoft Visual Studio 2005 Code Analysis Report</String>
+ </Localized>
+</FxCopReport>
